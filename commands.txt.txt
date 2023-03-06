@@ -1,0 +1,11 @@
+v
+--version
+Prints the Git suite version that the git program came from.
+
+This option is internally converted to git version ... and accepts the same options as the git-version[1] command. If --help is also given, it takes precedence over --version.
+
+-h
+--help
+Prints the synopsis and a list of the most commonly used commands. If the option --all or -a is given then all available commands are printed. If a Git command is named this option will bring up the manual page for that command.
+
+Other options are available to control how the manual page is displayed. See git-help[1] for more information, because git --help ... is converted internally into git help ....
