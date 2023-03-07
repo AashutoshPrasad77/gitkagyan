@@ -1,4 +1,4 @@
-v
+
 --version
 Prints the Git suite version that the git program came from.
 
@@ -10,4 +10,4 @@ Prints the synopsis and a list of the most commonly used commands. If the option
 
 Other options are available to control how the manual page is displayed. See git-help[1] for more information, because git --help ... is converted internally into git help .... .
 yu can learn more commands on official website www.gitcm.com
-
+the all commands is useful for learning git and linux field . 
